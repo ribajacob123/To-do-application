@@ -4,4 +4,4 @@ A simple to do application developed using React JS. User can create a task or d
 
 ### Screenshot of the application
 
-<img src = "App%20demo.png"
+<img src = "App%20demo.png">
